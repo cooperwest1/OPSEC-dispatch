@@ -122,6 +122,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Thanks to OpenAI for the incredible NLP engine.
 - Thanks to all contributors who help make this project better.
 
----
-
-This is just a template; feel free to customize it as you see fit!
